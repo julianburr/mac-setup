@@ -4,7 +4,9 @@
 curl https://raw.githubusercontent.com/julianburr/mac-setup/main/mac-setup.sh | bash
 ```
 
-Script for easier setup of a new mac as your dev machine. This script is based on https://github.com/thomaspoignant/mac-dev-setup which I've adjusted for my needs. It's supposed to run on a fresh MacOS machine and will install the following software:
+## What is this?
+
+Script for easier setup of a dev machine. This script is based on https://github.com/thomaspoignant/mac-dev-setup which I've adjusted for my needs. It's supposed to run on a fresh MacOS machine and will install the following software:
 
 - [Homebrew](https://brew.sh/)
 - Terminal & command line helpers
